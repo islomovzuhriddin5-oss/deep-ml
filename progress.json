@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:35:36.340Z",
+  "generated_at": "2026-11-07T04:54:10.149Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -392,6 +392,19 @@
       "last_pushed_at": "2026-11-07T04:35:36.549Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:1026": {
+      "kind": "problem",
+      "id": "1026",
+      "title": "Implement Weight Tying Between Embedding and LM Head",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1026",
+      "path": "problems/1026-implement-weight-tying-between-embedding-and-lm-head",
+      "first_solved_at": "2026-11-07T04:54:10.505Z",
+      "last_pushed_at": "2026-11-07T04:54:10.505Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
