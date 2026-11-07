@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 18 problems · 0 labs · 12 math
+**31** solved · 19 problems · 0 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-11-04 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-07 | [solution](problems/0334-cholesky-decomposition) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-07 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Least-Norm Solution of an Underdetermined System](https://www.deep-ml.com/problems/1777) | medium | 2026-11-07 | [solution](problems/1777-least-norm-solution-of-an-underdetermined-system) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-07 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-07 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Quotient Rule for Derivatives](https://www.deep-ml.com/problems/312) | medium | 2026-11-05 | [solution](problems/0312-quotient-rule-for-derivatives) |

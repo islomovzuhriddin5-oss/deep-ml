@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T04:29:41.988Z",
+  "generated_at": "2026-11-07T04:32:55.751Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -366,6 +366,19 @@
       "last_pushed_at": "2026-11-07T04:29:42.301Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:1777": {
+      "kind": "problem",
+      "id": "1777",
+      "title": "Least-Norm Solution of an Underdetermined System",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1777",
+      "path": "problems/1777-least-norm-solution-of-an-underdetermined-system",
+      "first_solved_at": "2026-11-07T04:32:56.082Z",
+      "last_pushed_at": "2026-11-07T04:32:56.082Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
