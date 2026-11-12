@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T11:15:20.131Z",
+  "generated_at": "2026-11-12T11:16:40.343Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -438,6 +438,19 @@
       "path": "problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line",
       "first_solved_at": "2026-11-12T11:15:18.632Z",
       "last_pushed_at": "2026-11-12T11:15:18.632Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-11-12T11:16:38.710Z",
+      "last_pushed_at": "2026-11-12T11:16:38.710Z",
       "language": "python",
       "lines": 15
     }
