@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 24 problems · 0 labs · 14 math
+**39** solved · 25 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Orthogonal Projection of a Vector onto a Line](https://www.deep-ml.com/problems/66) | easy | 2026-11-12 | [solution](problems/0066-implement-orthogonal-projection-of-a-vector-onto-a-line) |
 | [Implement Weight Tying Between Embedding and LM Head](https://www.deep-ml.com/problems/1026) | easy | 2026-11-07 | [solution](problems/1026-implement-weight-tying-between-embedding-and-lm-head) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-12 | [solution](problems/0014-linear-regression-using-normal-equation) |
+| [Recursive Least Squares for Simple Linear Regression](https://www.deep-ml.com/problems/1820) | easy | 2026-11-13 | [solution](problems/1820-recursive-least-squares-for-simple-linear-regression) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-04 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-11-04 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-04 | [solution](problems/0002-transpose-of-a-matrix) |
